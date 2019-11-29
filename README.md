@@ -1,6 +1,8 @@
 # BankPros-Maybank-Hackathon-
 BankPros (Maybank Hackathon)
 
+@THIS APP IS CREATED FOR THE MAYBANK HACKATHON 2017.
+
 -This app uses MIT App Inventor 2 to develop.
 
 -This repository contains 4 files, which are,
